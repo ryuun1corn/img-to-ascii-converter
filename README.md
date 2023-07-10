@@ -2,16 +2,22 @@
 Converts images (jpg, jpeg, png, etc) into ASCII letters.
 
 Dependencies:
+
 -Python 3
+
 -OpenCV library (Computer Visual), install using: 
 ```
 pip install opencv-python
 ```
 
 Instructions:
+
 -Just put the image in the same directory as the main.py file.
+
 -Edit the image width from the "converter_config.ini" file.
+
 -Edit the width to height ratio from the "converter_config.ini" file (not recommended, already tuned for the best width to height ratio)
+
 
 Examples:
 
